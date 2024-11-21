@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\shoppingorders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\shoppingorders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\repositories\\orderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\repositories\\orderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\modales\\producttoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\modales\\producttoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\modales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\modales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\modales\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\modales\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\modales\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\modales\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\migrations\\shoppingorderscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\migrations\\shoppingorderscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\migrations\\20241119132604_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\migrations\\20241119132604_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\dto\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\dto\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\dto\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\dto\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\dto\\categorywithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\dto\\categorywithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\data\\shoppingorderscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\data\\shoppingorderscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\controllers\\orderscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\controllers\\orderscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|c:\\users\\user1\\source\\repos\\shoppingorders\\shoppingorders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8235139D-6A8F-4A6F-A827-BBED6CAC5F57}|ShoppingOrders\\ShoppingOrders.csproj|solutionrelative:shoppingorders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241118181848_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingOrders\\Migrations\\20241118181848_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241118181050_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingOrders\\Migrations\\20241118181050_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingOrdersContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\ShoppingOrdersContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Migrations\\ShoppingOrdersContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\ShoppingOrdersContextModelSnapshot.cs",
+              "RelativeToolTip": "ShoppingOrders\\Migrations\\ShoppingOrdersContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:18:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Modales\\Product.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\Product.cs",
+              "RelativeToolTip": "ShoppingOrders\\Modales\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:33:09.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\ProductToOrder.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Modales\\ProductToOrder.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\ProductToOrder.cs",
+              "RelativeToolTip": "ShoppingOrders\\Modales\\ProductToOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:34:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryWithProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\CategoryWithProductsDto.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Dto\\CategoryWithProductsDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\CategoryWithProductsDto.cs",
+              "RelativeToolTip": "ShoppingOrders\\Dto\\CategoryWithProductsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:53:29.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ShoppingOrders\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:02:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository .cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Repositories\\OrderRepository .cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Repositories\\OrderRepository .cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Repositories\\OrderRepository .cs",
+              "RelativeToolTip": "ShoppingOrders\\Repositories\\OrderRepository .cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:45:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService .cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\OrderService .cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Services\\OrderService .cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\OrderService .cs",
+              "RelativeToolTip": "ShoppingOrders\\Services\\OrderService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:18:30.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\ProductService.cs",
+              "RelativeToolTip": "ShoppingOrders\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:47:52.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingOrders",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\ShoppingOrders.csproj",
+              "RelativeDocumentMoniker": "ShoppingOrders\\ShoppingOrders.csproj",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\ShoppingOrders.csproj",
+              "RelativeToolTip": "ShoppingOrders\\ShoppingOrders.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T18:08:40.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\Order.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Modales\\Order.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\Order.cs",
+              "RelativeToolTip": "ShoppingOrders\\Modales\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:29:39.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\Category.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Modales\\Category.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Modales\\Category.cs",
+              "RelativeToolTip": "ShoppingOrders\\Modales\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:33:03.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "ShoppingOrders\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:45:45.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\ProductDetailsDto.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Dto\\ProductDetailsDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\ProductDetailsDto.cs",
+              "RelativeToolTip": "ShoppingOrders\\Dto\\ProductDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:06:52.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Dto\\OrderDetailsDto.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\OrderDetailsDto.cs",
+              "RelativeToolTip": "ShoppingOrders\\Dto\\OrderDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:06:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Dto\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Dto\\CreateOrderRequest.cs",
+              "RelativeToolTip": "ShoppingOrders\\Dto\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:17:58.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingOrdersContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Data\\ShoppingOrdersContext.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Data\\ShoppingOrdersContext.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Data\\ShoppingOrdersContext.cs",
+              "RelativeToolTip": "ShoppingOrders\\Data\\ShoppingOrdersContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:09:06.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersController .cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Controllers\\OrdersController .cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Controllers\\OrdersController .cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Controllers\\OrdersController .cs",
+              "RelativeToolTip": "ShoppingOrders\\Controllers\\OrdersController .cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:19:44.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ShoppingOrders\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:03:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241119132604_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241119132604_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Migrations\\20241119132604_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241119132604_InitialMigration.cs",
+              "RelativeToolTip": "ShoppingOrders\\Migrations\\20241119132604_InitialMigration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:26:04.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Program.cs",
+              "RelativeToolTip": "ShoppingOrders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:09:33.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\IOrderService.cs",
+              "RelativeToolTip": "ShoppingOrders\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:21:25.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingOrders\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\appsettings.json",
+              "RelativeToolTip": "ShoppingOrders\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T18:09:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Services\\IProductService.cs",
+              "RelativeToolTip": "ShoppingOrders\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:55:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShoppingOrders\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T15:02:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241118181848_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241118181848_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Migrations\\20241118181848_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241118181848_InitialMigration.cs",
+              "RelativeToolTip": "ShoppingOrders\\Migrations\\20241118181848_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:18:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241118181050_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241118181050_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ShoppingOrders\\Migrations\\20241118181050_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\user1\\source\\repos\\ShoppingOrders\\ShoppingOrders\\Migrations\\20241118181050_InitialMigration.cs",
+              "RelativeToolTip": "ShoppingOrders\\Migrations\\20241118181050_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:10:50.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

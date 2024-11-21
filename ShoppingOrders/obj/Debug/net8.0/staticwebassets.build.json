@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IHHuStlYF4BUxJ40aGYAg+s4JXZ7JzTPtxjMY4BfUIQ=",
+  "Source": "ShoppingOrders",
+  "BasePath": "_content/ShoppingOrders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

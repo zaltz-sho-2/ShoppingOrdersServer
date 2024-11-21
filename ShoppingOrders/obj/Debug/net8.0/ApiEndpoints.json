@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ShoppingOrders.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShoppingOrders.Dto.CreateOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingOrders.Controllers.OrderController",
+    "Method": "GetOrdersByCustomerEmail",
+    "RelativePath": "api/order/by-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingOrders.Controllers.ProductController",
+    "Method": "GetProductsByCategories",
+    "RelativePath": "api/product/by-categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
